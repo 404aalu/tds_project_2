@@ -1,4 +1,4 @@
-# /// script
+'''# /// script
 # requires-python = ">=3.11"
 # dependencies = [
 #   "pandas",
@@ -10,7 +10,7 @@
 #   "plotly",
 #   "httpx"
 # ]
-# ///
+# ///'''
 
 import os
 import sys
