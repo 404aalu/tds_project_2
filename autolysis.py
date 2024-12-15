@@ -7,7 +7,8 @@
 #   "requests",
 #   "scikit-learn",
 #   "chardet",
-#   "plotly"
+#   "plotly",
+#   "httpx"
 # ]
 # ///
 
