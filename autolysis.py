@@ -1,16 +1,4 @@
-'''# /// script
-# requires-python = ">=3.11"
-# dependencies = [
-#   "pandas",
-#   "seaborn",
-#   "matplotlib",
-#   "requests",
-#   "scikit-learn",
-#   "chardet",
-#   "plotly",
-#   "httpx"
-# ]
-# ///'''
+
 
 import os
 import sys
