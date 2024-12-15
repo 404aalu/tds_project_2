@@ -1,4 +1,15 @@
-pip install seaborn
+# /// script
+# requires-python = ">=3.11"
+# dependencies = [
+#   "pandas",
+#   "seaborn",
+#   "matplotlib",
+#   "requests",
+#   "scikit-learn",
+#   "chardet",
+#   "plotly"
+# ]
+# ///
 
 import os
 import sys
